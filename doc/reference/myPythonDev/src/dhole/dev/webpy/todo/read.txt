@@ -1,6 +1,0 @@
-/schema.sql
-/templates:
-    /templates/base.html
-    /templates/index.html
-/model.py
-/todo.py
