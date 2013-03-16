@@ -1,0 +1,9 @@
+{% extends "../base.html" %}
+{% block title %}{{ _('Search') }}{% end %}
+{% block css %}
+<link rel="stylesheet" href="{{ reverse_url('theme_path', 'simple/static/highlight.css') }}" />
+{% end %}
+{% block content %}
+<h2>search by {{ keywords }}</h2>
+{% module List(page_obj, page_url) %}
+{% end %}

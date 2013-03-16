@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src
+END
+fetchvc.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/fetchvc.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/config.py
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/default.cfg
+END
+desktop.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/desktop.py
+END
+update.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/update.py
+END
+download.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/trunk/src/dhole/dev/wx/src/download.py
+END

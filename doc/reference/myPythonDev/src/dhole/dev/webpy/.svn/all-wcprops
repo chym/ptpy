@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy
+END
+sqlalchemy.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/sqlalchemy.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/__init__.py
+END
+code.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/code.py
+END
+desktop.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/desktop.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/models.py
+END
+serverManage.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy/serverManage.py
+END

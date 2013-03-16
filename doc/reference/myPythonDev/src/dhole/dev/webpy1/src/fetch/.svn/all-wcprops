@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy1/src/fetch
+END
+threadpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy1/src/fetch/threadpool.py
+END
+Timer.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy1/src/fetch/Timer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy1/src/fetch/__init__.py
+END
+fet_global_vars.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24/trunk/src/dhole/dev/webpy1/src/fetch/fet_global_vars.py
+END

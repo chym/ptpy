@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/24/trunk/src/dhole/dev/pyqt4/fangtee/sqldrivers
+END
+qsqlmysql4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/24/trunk/src/dhole/dev/pyqt4/fangtee/sqldrivers/qsqlmysql4.dll
+END
+qsqlodbc4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24/trunk/src/dhole/dev/pyqt4/fangtee/sqldrivers/qsqlodbc4.dll
+END
+qsqlite4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24/trunk/src/dhole/dev/pyqt4/fangtee/sqldrivers/qsqlite4.dll
+END
+qsqlpsql4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24/trunk/src/dhole/dev/pyqt4/fangtee/sqldrivers/qsqlpsql4.dll
+END

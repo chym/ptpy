@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/LICENSE
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/MANIFEST.in
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/.gitignore
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/setup.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/README
+END

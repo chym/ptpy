@@ -1,0 +1,16 @@
+{% extends "../base.html" %}
+{% block title %}{{ _("List") }}{% end %}
+{% block css %}
+<link rel="stylesheet" href="{{ reverse_url('theme_path', 'default/static/highlight.css') }}" />
+{% end %}
+{% block content %}
+<div id="post-list">
+    {% if page_obj.items %}
+        {% for post in page_obj.items %}
+            {% module Post(post) %}
+        {% end %}
+    {% else %}
+        <div class="error-no-data">No post</div>
+    {% end %}
+</div>
+{% end %}

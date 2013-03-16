@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests
+END
+serverX509Key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/serverX509Key.pem
+END
+httpsclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/httpsclient.py
+END
+TACK1.pem
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK1.pem
+END
+TACK_Key1.pem
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK_Key1.pem
+END
+TACK2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK2.pem
+END
+TACK_Key2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK_Key2.pem
+END
+TACKunrelated.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACKunrelated.pem
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/index.html
+END
+tlstest.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/tlstest.py
+END
+TACK_Break_Sigs_TACK1.pem
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK_Break_Sigs_TACK1.pem
+END
+verifierDB
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/verifierDB
+END
+httpsserver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/httpsserver.sh
+END
+TACK_Break_Sigs.pem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/TACK_Break_Sigs.pem
+END
+serverX509Cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/serverX509Cert.pem
+END
+clientX509Key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/clientX509Key.pem
+END
+clientX509Cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/src/devs/trevp-tlslite-cac0c81/tests/clientX509Cert.pem
+END

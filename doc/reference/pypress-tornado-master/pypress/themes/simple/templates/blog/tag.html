@@ -1,0 +1,10 @@
+{% extends "../base.html" %}
+{% block title %}Tag: {{ tagname }}{% end %}
+{% block css %}
+<link rel="stylesheet" href="{{ reverse_url('theme_path', 'simple/static/highlight.css') }}" />
+{% end %}
+{% block content %}
+<h2>Tag: {{ tagname }}</h2>
+{% module List(page_obj, page_url) %}
+{% end %}
+
